@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689810900733",
+    "firebase_url": "https://flutter2020-59c6e.firebaseio.com",
+    "project_id": "flutter2020-59c6e",
+    "storage_bucket": "flutter2020-59c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689810900733:android:77f3b5424cc7226cd42094",
+        "android_client_info": {
+          "package_name": "com.example.input_islemleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689810900733-cqm612m5aggb8c6ojre3gs5srfe3hf67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3K3GLmlourBDARklAMEl9rsp1Rm4TQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689810900733-cqm612m5aggb8c6ojre3gs5srfe3hf67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
